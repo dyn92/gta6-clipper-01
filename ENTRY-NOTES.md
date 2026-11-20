@@ -52,3 +52,9 @@ tidak valid.
   Dua uji, keduanya sesuai harapan.
 - ENTRY-NOTES.md ini direvisi dalam 2 langkah terpisah di sesi yang
   sama (penulisan awal, lalu tambahan hasil uji ini).
+
+## Repo
+Repo publik: https://github.com/dyn92/gta6-clipper-01 — dibuat di dalam
+jendela kompetisi (dibuka 2026-11-20T01:00:00Z), berisi VIDEO.json,
+main.ts, README.md (template resmi bounty ini), LICENSE MIT, dan
+.makefun/owner.json yang menamai wallet payout akun.
